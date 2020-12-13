@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="empty_text">No news article right now</string>
+    <string name="internet_error_text">Please check your internet connection</string>
+</resources>
